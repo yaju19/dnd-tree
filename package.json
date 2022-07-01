@@ -1,0 +1,23 @@
+{
+  "name": "@atlaskit/tree-4-drag-and-drop",
+  "version": "0.0.0",
+  "description": "A simple example deployed using react-codesandboxer",
+  "main": "index.tsx",
+  "dependencies": {
+    "react": "^16.8.0",
+    "styled-components": "latest",
+    "@atlaskit/navigation": "^35.3.0",
+    "@atlaskit/icon": "^19.0.6",
+    "@atlaskit/button": "^13.3.3",
+    "@atlaskit/css-reset": "latest",
+    "@atlaskit/tree": "7.1.0",
+    "react-dom": "^16.8.0",
+    "react-scripts-ts": "^2.13.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  }
+}
